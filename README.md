@@ -2,5 +2,5 @@
 
 ### How to compile
 ```sh
- g++ -Wall bank_account.cc
+g++ -Wall bank_account.cc
 ````
